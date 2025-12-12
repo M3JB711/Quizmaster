@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Master",
+  "description": "An intelligent quiz generator that creates interactive assessments from your PDF course materials using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
